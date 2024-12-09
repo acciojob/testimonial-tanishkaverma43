@@ -6,17 +6,13 @@
 
 .testimonial{
 	padding: 20px;
-	border: 30px;
+	border: 1px solid black;
 	background-color: red
 	
 }
 
-.text{
-	font-style: sans-serif;
-	color: brown;
-}
 
-.author{
+div>author{
 	text-align: right;
 	font-style: italic;
 }
