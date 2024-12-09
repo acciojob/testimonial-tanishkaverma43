@@ -1,1 +1,22 @@
 /*  your css code here. If applicable */
+#main-container {
+    padding: 20px;
+    background-color: #f5f5f5; /* This is a light gray color */
+}
+
+.testimonial{
+	padding: 20px;
+	border: 30px;
+	background-color: red
+	
+}
+
+.text{
+	font-style: sans-serif;
+	color: brown;
+}
+
+.author{
+	text-align: right;
+	font-style: italic;
+}
